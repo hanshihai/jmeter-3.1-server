@@ -10,7 +10,5 @@ add below arg if you want to enable proxy
 
 =====================
 
-mkdir /opt/jmeter
-
 docker build -t jmeter-base .
 
